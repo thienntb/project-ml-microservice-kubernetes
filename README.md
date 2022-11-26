@@ -1,4 +1,4 @@
-<include a CircleCI status badge, here>
+[![thienntb]((https://circleci.com/gh/thienntb/project-ml-microservice-kubernetes.svg?style=svg)])(https://app.circleci.com/pipelines/github/thienntb/project-ml-microservice-kubernetes)
 
 ## Project Overview
 
@@ -48,3 +48,10 @@ source .devops/bin/activate
 * Setup and Configure Kubernetes locally
 * Create Flask app in Container
 * Run via kubectl
+
+### Explanation
+- Dockerfile: build your Flask app and run it
+- Makefile: includes instructions on environment setup and lint tests
+- make_prediction.sh: includes the post request to your Flask app
+- app.py: your application
+- requirements.txt: your needed dependencies
