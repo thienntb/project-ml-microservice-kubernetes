@@ -1,4 +1,4 @@
-[![thienntb]((https://circleci.com/gh/thienntb/project-ml-microservice-kubernetes.svg?style=svg)])(https://app.circleci.com/pipelines/github/thienntb/project-ml-microservice-kubernetes)
+[![thienntb](https://circleci.com/gh/thienntb/project-ml-microservice-kubernetes.svg?style=svg)](https://app.circleci.com/pipelines/github/thienntb/project-ml-microservice-kubernetes)
 
 ## Project Overview
 
