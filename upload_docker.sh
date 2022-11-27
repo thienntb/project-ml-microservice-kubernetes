@@ -11,6 +11,7 @@ export dockerpath=buuthien2412/mydevops
 # Step 2:  
 # Authenticate & tag
 echo "Docker ID and Image: $dockerpath"
+docker login
 
 # Step 3:
 # Push image to a docker repository
